@@ -1,5 +1,4 @@
 
-
 # Jazz Michael G. Nase
 
 👋 Hi there! I'm Jazz Michael G. Nase, a passionate and dedicated Bachelor of Science in Computer Science student at Cavite State University - Bacoor City Campus. My journey in technology and development has equipped me with a diverse skill set and a deep love for creating innovative solutions.
@@ -42,14 +41,16 @@
 - **Description:** Developed a basic marketplace application implementing CRUD operations.
 
 ### Ongoing Thesis Project
+- **Title:** Empowering Artists with Non-Fungible Tokens (NFT) with AI Integration on the Polygon Network
 - **Role:** Project Leader
-- **Description:** Leading a significant thesis project that aims to innovate and solve real-world problems. This project is one of my biggest endeavors and holds great potential for impact.
+- **Description:** Creating a sophisticated NFT platform that leverages AI to check for copyrighted and AI-generated content, ensuring the originality and creativity of each artist's work. This project aims to inspire passion in art, providing a platform where original art can be minted and potentially sold at higher prices due to its verified authenticity.
 
 ## 🏆 Experience
 - **Verified NFT Artist at Canva** (2020 - 2024)
 - **Ambassador for Cryptocurrency Projects** (2021 - 2024)
 - **Moderator and Core Team Member at ORIGYN** (2024 - Present)
   - Empowering artists with NFTs and AI integration on the Polygon network.
+  - Leading the ongoing Capstone project utilizing React and other technologies.
 
 ## 🔒 Privacy Statement
 You will not see my projects here as I value my privacy and the hard work I have put into these projects. I prefer to share them selectively to ensure my efforts are credited properly and not used without permission.
