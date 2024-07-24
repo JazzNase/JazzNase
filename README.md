@@ -41,11 +41,18 @@
 - **Technologies:** React, Firebase
 - **Description:** Developed a basic marketplace application implementing CRUD operations.
 
+### Ongoing Thesis Project
+- **Role:** Project Leader
+- **Description:** Leading a significant thesis project that aims to innovate and solve real-world problems. This project is one of my biggest endeavors and holds great potential for impact.
+
 ## 🏆 Experience
 - **Verified NFT Artist at Canva** (2020 - 2024)
 - **Ambassador for Cryptocurrency Projects** (2021 - 2024)
 - **Moderator and Core Team Member at ORIGYN** (2024 - Present)
   - Empowering artists with NFTs and AI integration on the Polygon network.
+
+## 🔒 Privacy Statement
+You will not see my projects here as I value my privacy and the hard work I have put into these projects. I prefer to share them selectively to ensure my efforts are credited properly and not used without permission.
 
 ## 💬 Let's Collaborate
 I'm always open to collaborating on innovative projects and research in the fields of software development, game development, and blockchain technology. If you're interested in working together or discussing potential opportunities, feel free to reach out!
@@ -55,6 +62,9 @@ I'm always open to collaborating on innovative projects and research in the fiel
 - **Phone:** 09612-148-397
 - **Portfolio:** [jazznase.vercel.app](https://jazznase.vercel.app/)
 - **GitHub:** [@JazzNase](https://github.com/JazzNase)
+
+## 🔄 Alternative Account
+This is my main account. I also use an alternative account for school-related privileges, such as GitHub Copilot: [JazzMichaelNase](https://github.com/JazzMichaelNase).
 
 ## 😄 Pronouns
 He/Him
