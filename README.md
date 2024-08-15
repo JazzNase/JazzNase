@@ -1,79 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jazz Michael G. Nase - Profile</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
 
-# Jazz Michael G. Nase
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
 
-👋 Hi there! I'm Jazz Michael G. Nase, a passionate and dedicated Bachelor of Science in Computer Science student at Cavite State University - Bacoor City Campus. My journey in technology and development has equipped me with a diverse skill set and a deep love for creating innovative solutions.
+        h1, h2 {
+            color: #2c3e50;
+            text-align: center;
+        }
 
-## 👀 Interests
-- Software Development
-- Game Development
-- Web Development
-- Blockchain and Cryptocurrency Technologies
-- Non-Fungible Tokens (NFTs)
-- Artificial Intelligence (AI)
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
 
-## 🌱 Currently Learning
-- Advanced JavaScript and TypeScript
-- Blockchain Development
-- Machine Learning and AI integration
+        header p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
 
-## 💼 Projects
-### Marianne Hotel System
-- **Role:** Project Leader
-- **Technologies:** PHP, PHPMailer, CSS, JavaScript
-- **Description:** Developed a comprehensive hotel management system for Marianne Hotel.
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
 
-### RITSO (2D Top-Down Game)
-- **Role:** Assistant Project Leader
-- **Technologies:** Unity, C#, Libresprite
-- **Description:** Contributed to the development of a 2D top-down game, focusing on game mechanics and sprite design.
+        ul li {
+            background: #2ecc71;
+            color: #fff;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 4px;
+        }
 
-### FARM BUD
-- **Role:** Project Leader
-- **Technologies:** Flutter, Firebase
-- **Description:** Led the development of a mobile application aimed at assisting farmers with crop management.
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
 
-### Word Checker
-- **Technologies:** JavaScript, React Native, BING API
-- **Description:** Created a word-checking application that integrates with the BING API for real-time word validation.
+        a:hover {
+            text-decoration: underline;
+        }
 
-### Marketplace (Basic CRUD)
-- **Technologies:** React, Firebase
-- **Description:** Developed a basic marketplace application implementing CRUD operations.
+        .project-item {
+            background-color: #ecf0f1;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-left: 5px solid #3498db;
+        }
 
-### Ongoing Thesis Project
-- **Title:** Empowering Artists with Non-Fungible Tokens (NFT) with AI Integration on the Polygon Network
-- **Role:** Project Leader
-- **Description:** Creating a sophisticated NFT platform that leverages AI to check for copyrighted and AI-generated content, ensuring the originality and creativity of each artist's work. This project aims to inspire passion in art, providing a platform where original art can be minted and potentially sold at higher prices due to its verified authenticity.
+        .fun-fact {
+            background-color: #f39c12;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Jazz Michael G. Nase</h1>
+            <p>👋 Hi there! I'm Jazz Michael G. Nase, a passionate Bachelor of Science in Computer Science student at Cavite State University - Bacoor City Campus.</p>
+        </header>
 
-## 🏆 Experience
-- **Verified NFT Artist at Canva** (2020 - 2024)
-- **Ambassador for Cryptocurrency Projects** (2021 - 2024)
-- **Moderator and Core Team Member at ORIGYN** (2024 - Present)
-  - Empowering artists with NFTs and AI integration on the Polygon network.
-  - Leading the ongoing Capstone project utilizing React and other technologies.
+        <section class="interests">
+            <h2>👀 Interests</h2>
+            <ul id="interests-list">
+                <li>Software Development</li>
+                <li>Game Development</li>
+                <li>Web Development</li>
+                <li>Blockchain and Cryptocurrency Technologies</li>
+                <li>Non-Fungible Tokens (NFTs)</li>
+                <li>Artificial Intelligence (AI)</li>
+            </ul>
+        </section>
 
-## 🔒 Privacy Statement
-You will not see my projects here as I value my privacy and the hard work I have put into these projects. I prefer to share them selectively to ensure my efforts are credited properly and not used without permission.
+        <section class="currently-learning">
+            <h2>🌱 Currently Learning</h2>
+            <ul>
+                <li>Advanced JavaScript and TypeScript</li>
+                <li>Blockchain Development</li>
+                <li>Machine Learning and AI integration</li>
+            </ul>
+        </section>
 
-## 💬 Let's Collaborate
-I'm always open to collaborating on innovative projects and research in the fields of software development, game development, and blockchain technology. If you're interested in working together or discussing potential opportunities, feel free to reach out!
+        <section class="projects">
+            <h2>💼 Projects</h2>
+            <div class="project-item">
+                <h3>Marianne Hotel System</h3>
+                <p><strong>Role:</strong> Project Leader</p>
+                <p><strong>Technologies:</strong> PHP, PHPMailer, CSS, JavaScript</p>
+                <p><strong>Description:</strong> Developed a comprehensive hotel management system for Marianne Hotel.</p>
+            </div>
+            <div class="project-item">
+                <h3>RITSO (2D Top-Down Game)</h3>
+                <p><strong>Role:</strong> Assistant Project Leader</p>
+                <p><strong>Technologies:</strong> Unity, C#, Libresprite</p>
+                <p><strong>Description:</strong> Contributed to the development of a 2D top-down game, focusing on game mechanics and sprite design.</p>
+            </div>
+            <!-- Add more projects here -->
+        </section>
 
-## 📫 Contact Me
-- **Email:** jazzmichaelnase@gmail.com
-- **Phone:** 09612-148-397
-- **Portfolio:** [jazznase.vercel.app](https://jazznase.vercel.app/)
-- **GitHub:** [@JazzNase](https://github.com/JazzNase)
+        <section class="contact">
+            <h2>📫 Contact Me</h2>
+            <p><strong>Email:</strong> jazzmichaelnase@gmail.com</p>
+            <p><strong>Phone:</strong> 09612-148-397</p>
+            <p><strong>Portfolio:</strong> <a href="https://jazznase.vercel.app/">jazznase.vercel.app</a></p>
+            <p><strong>GitHub:</strong> <a href="https://github.com/JazzNase">@JazzNase</a></p>
+        </section>
 
-## 🔄 Alternative Account
-This is my main account. I also use an alternative account for school-related privileges, such as GitHub Copilot: [JazzMichaelNase](https://github.com/JazzMichaelNase).
+        <section class="fun-fact">
+            <h2>⚡ Fun Fact</h2>
+            <p>I enjoy exploring the creative world of digital art and NFTs, blending creativity with technical skills to drive innovation.</p>
+        </section>
+    </div>
 
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun Fact
-I am not only passionate about technology but also enjoy exploring the creative world of digital art and NFTs. This unique combination allows me to blend creativity with technical skills, driving innovation in every project I undertake.
-
-<!---
-JazzNase/JazzNase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const interests = document.getElementById('interests-list');
+            
+            const newInterest = document.createElement('li');
+            newInterest.textContent = "Emerging Technologies";
+            interests.appendChild(newInterest);
+        });
+    </script>
+</body>
+</html>
