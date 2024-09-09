@@ -1,3 +1,7 @@
+Here’s a polished and professional version of your GitHub profile based on your provided template:
+
+---
+
 # 👋 Hi, I'm Jazz Michael G. Nase
 **BSCS Student**  
 📍 Cavite State University - Bacoor City Campus  
@@ -5,12 +9,12 @@
 ---
 
 ## 💼 Projects & Experience
-- **2024**: RITSO (2D Top-Down Game) – Assistant Leader (Unity, C#)
-- **2024**: Word Checker – Javascript & React Native (Bing API)
-- **2024**: Marketplace (Basic CRUD) – React & Firebase
-- **2024**: Empowering Artists with NFTs & AI on the Polygon Network – Capstone Project
-- **2022-2024**: FARM BUD – Leader in Project (Flutter & Firebase)
-- **2022-2024**: Marianne Hotel System – Project Leader (PHP, JS)
+- **2024**: **RITSO (2D Top-Down Game)** – Assistant Project Leader (Unity, C#)
+- **2024**: **Word Checker** – JavaScript & React Native (Bing API)
+- **2024**: **Marketplace (Basic CRUD)** – React & Firebase
+- **2024**: **Empowering Artists with NFTs & AI on the Polygon Network** – Capstone Project
+- **2022-2024**: **FARM BUD** – Project Leader (Flutter & Firebase)
+- **2022-2024**: **Marianne Hotel System** – Project Leader (PHP, JavaScript)
 
 ---
 
@@ -70,8 +74,10 @@
 ---
 
 ## ⚡ Fun Facts
-- 🖥️ See my portfolio at [Jazz Michael Nase Portfolio](https://jazznase.vercel.app/)
-- 🧠 Currently learning Domain-Driven Design (DDD)
+- 🖥️ Check out my portfolio: [Jazz Michael Nase Portfolio](https://jazznase.ver
+
+cel.app/)
+- 🧠 Currently diving into Domain-Driven Design (DDD)
 - 🤝 Open to collaborating on Web3 & AI-related projects
 
 ---
@@ -85,3 +91,7 @@
     <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
   </a>
 </p>
+
+---
+
+Feel free to adjust or add anything else that reflects your professional journey and interests!
