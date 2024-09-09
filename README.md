@@ -1,97 +1,86 @@
-Here’s a polished and professional version of your GitHub profile based on your provided template:
+Here’s your GitHub profile readme, incorporating the provided information:
 
 ---
 
-# 👋 Hi, I'm Jazz Michael G. Nase
-**BSCS Student**  
-📍 Cavite State University - Bacoor City Campus  
+# Jazz Michael G. Nase
+
+👋 Hi there! I'm Jazz Michael G. Nase, a passionate and dedicated Bachelor of Science in Computer Science student at Cavite State University - Bacoor City Campus. My journey in technology and development has equipped me with a diverse skill set and a deep love for creating innovative solutions.
+
+## 👀 Interests
+- Software Development
+- Game Development
+- Web Development
+- Blockchain and Cryptocurrency Technologies
+- Non-Fungible Tokens (NFTs)
+- Artificial Intelligence (AI)
+
+## 🌱 Currently Learning
+- Advanced JavaScript and TypeScript
+- Blockchain Development
+- Machine Learning and AI integration
+
+## 💼 Projects
+### Marianne Hotel System
+- **Role:** Project Leader
+- **Technologies:** PHP, PHPMailer, CSS, JavaScript
+- **Description:** Developed a comprehensive hotel management system for Marianne Hotel.
+
+### RITSO (2D Top-Down Game)
+- **Role:** Assistant Project Leader
+- **Technologies:** Unity, C#, Libresprite
+- **Description:** Contributed to the development of a 2D top-down game, focusing on game mechanics and sprite design.
+
+### FARM BUD
+- **Role:** Project Leader
+- **Technologies:** Flutter, Firebase
+- **Description:** Led the development of a mobile application aimed at assisting farmers with crop management.
+
+### Word Checker
+- **Technologies:** JavaScript, React Native, BING API
+- **Description:** Created a word-checking application that integrates with the BING API for real-time word validation.
+
+### Marketplace (Basic CRUD)
+- **Technologies:** React, Firebase
+- **Description:** Developed a basic marketplace application implementing CRUD operations.
+
+### Ongoing Thesis Project
+- **Title:** Empowering Artists with Non-Fungible Tokens (NFT) with AI Integration on the Polygon Network
+- **Role:** Project Leader
+- **Description:** Creating a sophisticated NFT platform that leverages AI to check for copyrighted and AI-generated content, ensuring the originality and creativity of each artist's work. This project aims to inspire passion in art, providing a platform where original art can be minted and potentially sold at higher prices due to its verified authenticity.
+
+## 🏆 Experience
+- **Verified NFT Artist at Canva** (2020 - 2024)
+- **Ambassador for Cryptocurrency Projects** (2021 - 2024)
+- **Moderator and Core Team Member at ORIGYN** (2024 - Present)
+  - Empowering artists with NFTs and AI integration on the Polygon network.
+  - Leading the ongoing Capstone project utilizing React and other technologies.
+
+## 🔒 Privacy Statement
+You will not see my projects here as I value my privacy and the hard work I have put into these projects. I prefer to share them selectively to ensure my efforts are credited properly and not used without permission.
+
+## 💬 Let's Collaborate
+I'm always open to collaborating on innovative projects and research in the fields of software development, game development, and blockchain technology. If you're interested in working together or discussing potential opportunities, feel free to reach out!
+
+## 📫 Contact Me
+- **Email:** jazzmichaelnase@gmail.com
+- **Phone:** 09612-148-397
+- **Portfolio:** [jazznase.vercel.app](https://jazznase.vercel.app/)
+- **GitHub:** [@JazzNase](https://github.com/JazzNase)
+
+## 🔄 Alternative Account
+This is my main account. I also use an alternative account for school-related privileges, such as GitHub Copilot: [JazzMichaelNase](https://github.com/JazzMichaelNase).
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun Fact
+I am not only passionate about technology but also enjoy exploring the creative world of digital art and NFTs. This unique combination allows me to blend creativity with technical skills, driving innovation in every project I undertake.
+
+<!---
+JazzNase/JazzNase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 ---
 
-## 💼 Projects & Experience
-- **2024**: **RITSO (2D Top-Down Game)** – Assistant Project Leader (Unity, C#)
-- **2024**: **Word Checker** – JavaScript & React Native (Bing API)
-- **2024**: **Marketplace (Basic CRUD)** – React & Firebase
-- **2024**: **Empowering Artists with NFTs & AI on the Polygon Network** – Capstone Project
-- **2022-2024**: **FARM BUD** – Project Leader (Flutter & Firebase)
-- **2022-2024**: **Marianne Hotel System** – Project Leader (PHP, JavaScript)
-
----
-
-## 🛠️ My Skill Set
-
-### Frontend
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/electron-colored.svg" width="36" height="36" alt="Electron" /></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chartjs-colored.svg" width="36" height="36" alt="Chart.js" /></a>
-</p>
-
-### Backend
-<p align="left">
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nginx-colored.svg" width="36" height="36" alt="Nginx" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="36" height="36" alt="Bash" /></a>
-</p>
-
-### DevOps
-<p align="left">
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gcp-colored.svg" width="36" height="36" alt="GCP" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
-
----
-
-## 🔗 Socials
-<p align="left">
-  <a href="https://github.com/jazzmichaelnase" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/jazz-michael-nase" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun Facts
-- 🖥️ Check out my portfolio: [Jazz Michael Nase Portfolio](https://jazznase.ver
-
-cel.app/)
-- 🧠 Currently diving into Domain-Driven Design (DDD)
-- 🤝 Open to collaborating on Web3 & AI-related projects
-
----
-
-## ☕ Support Me
-<p align="left">
-  <a href="https://www.buymeacoffee.com/jazznase" target="_blank" rel="noreferrer">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-  </a>
-  <a href="https://www.ko-fi.com/jazznase" target="_blank" rel="noreferrer">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
-  </a>
-</p>
-
----
-
-Feel free to adjust or add anything else that reflects your professional journey and interests!
+Feel free to adjust or add any more details to better fit your style!
