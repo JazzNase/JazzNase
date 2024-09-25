@@ -1,86 +1,21 @@
-Here’s your GitHub profile readme, incorporating the provided information:
+# 💫 About Me:
+ORIGYN Moderator Ambassador, Any collaboration with me will be interesting, I'm currently learning AI and Blockchain works, Fun Facts about me that I survive everyday
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jazz.nase.14) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JazzMichaelNase) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JazzMichaelNase) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jazznase&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jazznase&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jazznase&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jazznase&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=jazznase&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Jazz Michael G. Nase
-
-👋 Hi there! I'm Jazz Michael G. Nase, a passionate and dedicated Bachelor of Science in Computer Science student at Cavite State University - Bacoor City Campus. My journey in technology and development has equipped me with a diverse skill set and a deep love for creating innovative solutions.
-
-## 👀 Interests
-- Software Development
-- Game Development
-- Web Development
-- Blockchain and Cryptocurrency Technologies
-- Non-Fungible Tokens (NFTs)
-- Artificial Intelligence (AI)
-
-## 🌱 Currently Learning
-- Advanced JavaScript and TypeScript
-- Blockchain Development
-- Machine Learning and AI integration
-
-## 💼 Projects
-### Marianne Hotel System
-- **Role:** Project Leader
-- **Technologies:** PHP, PHPMailer, CSS, JavaScript
-- **Description:** Developed a comprehensive hotel management system for Marianne Hotel.
-
-### RITSO (2D Top-Down Game)
-- **Role:** Assistant Project Leader
-- **Technologies:** Unity, C#, Libresprite
-- **Description:** Contributed to the development of a 2D top-down game, focusing on game mechanics and sprite design.
-
-### FARM BUD
-- **Role:** Project Leader
-- **Technologies:** Flutter, Firebase
-- **Description:** Led the development of a mobile application aimed at assisting farmers with crop management.
-
-### Word Checker
-- **Technologies:** JavaScript, React Native, BING API
-- **Description:** Created a word-checking application that integrates with the BING API for real-time word validation.
-
-### Marketplace (Basic CRUD)
-- **Technologies:** React, Firebase
-- **Description:** Developed a basic marketplace application implementing CRUD operations.
-
-### Ongoing Thesis Project
-- **Title:** Empowering Artists with Non-Fungible Tokens (NFT) with AI Integration on the Polygon Network
-- **Role:** Project Leader
-- **Description:** Creating a sophisticated NFT platform that leverages AI to check for copyrighted and AI-generated content, ensuring the originality and creativity of each artist's work. This project aims to inspire passion in art, providing a platform where original art can be minted and potentially sold at higher prices due to its verified authenticity.
-
-## 🏆 Experience
-- **Verified NFT Artist at Canva** (2020 - 2024)
-- **Ambassador for Cryptocurrency Projects** (2021 - 2024)
-- **Moderator and Core Team Member at ORIGYN** (2024 - Present)
-  - Empowering artists with NFTs and AI integration on the Polygon network.
-  - Leading the ongoing Capstone project utilizing React and other technologies.
-
-## 🔒 Privacy Statement
-You will not see my projects here as I value my privacy and the hard work I have put into these projects. I prefer to share them selectively to ensure my efforts are credited properly and not used without permission.
-
-## 💬 Let's Collaborate
-I'm always open to collaborating on innovative projects and research in the fields of software development, game development, and blockchain technology. If you're interested in working together or discussing potential opportunities, feel free to reach out!
-
-## 📫 Contact Me
-- **Email:** jazzmichaelnase@gmail.com
-- **Phone:** 09612-148-397
-- **Portfolio:** [jazznase.vercel.app](https://jazznase.vercel.app/)
-- **GitHub:** [@JazzNase](https://github.com/JazzNase)
-
-## 🔄 Alternative Account
-This is my main account. I also use an alternative account for school-related privileges, such as GitHub Copilot: [JazzMichaelNase](https://github.com/JazzMichaelNase).
-
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun Fact
-I am not only passionate about technology but also enjoy exploring the creative world of digital art and NFTs. This unique combination allows me to blend creativity with technical skills, driving innovation in every project I undertake.
-
-<!---
-JazzNase/JazzNase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
----
-
-Feel free to adjust or add any more details to better fit your style!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
