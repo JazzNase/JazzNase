@@ -1,9 +1,6 @@
-
-
 # 👋 About Me  
 I am an [**ORIGYN Moderator Ambassador**](https://www.origyn.com/) with a passion for **AI** and **Blockchain** technologies. I'm always open to interesting collaborations and projects! I work as a **freelancer Moderator and Ambassador** across various projects, with my first ambassador program being [**Waves Tech**](https://waves.tech/).  
 > **Fun fact**: I survive and thrive every day with a positive mindset!
-
 
 
 ## 🚀 Skills & Interests  
@@ -11,6 +8,19 @@ I am an [**ORIGYN Moderator Ambassador**](https://www.origyn.com/) with a passio
 - ![Next.js Icon](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) **Web Development**: Next.js, Front-end design with ShadCN  
 - ![AI Icon](https://img.shields.io/badge/AI-0000FF?style=for-the-badge&logo=ai&logoColor=white) **AI & Machine Learning**: Learning models and their applications  
 - ![Community Icon](https://img.shields.io/badge/Community-FF4500?style=for-the-badge&logo=community&logoColor=white) **Community**: Ambassador for the ORIGYN Foundation
+
+
+## 📂 Projects
+
+| **Project**                                                         | **Role**                     | **Tech Stack**                              | **Description**                                                                 |
+|----------------------------------------------------------------------|------------------------------|---------------------------------------------|---------------------------------------------------------------------------------|
+| 🎨 **Empowering Artists with Non-Fungible Tokens (NFT) with AI Integration on the Polygon Network** | Project Leader               | AI, Blockchain, Polygon, NFT                | Creating a platform for artists to mint NFTs, verified for originality using AI.|
+| 📚 **Word Checker**                                                  | Developer                    | JavaScript, React Native, BING API          | A word-checking app with real-time word validation using the BING API.           |
+| 🔥 **Semi Advanced Marketplace (Semi Advanced CRUD)**                | Developer                    | Laravel, React, Firebase, Multi-Framework   | Developed a marketplace with multi-framework integration and authentication for both admins and users. |
+| 🛒 **Marketplace (Basic CRUD)**                                       | Developer                    | React, Firebase                             | Developed a basic marketplace application implementing CRUD operations.          |
+| 🎮 **RITSO (2D Top-Down Game)**                                       | Assistant Project Leader      | Unity, C#, Libresprite                      | Contributed to game mechanics and sprite design for a 2D top-down game.          |
+| 🌱 **FARM BUD**                                                      | Project Leader               | Flutter, Firebase                           | Led development of a mobile app to assist farmers with crop management.          |
+| 🏨 **Marianne Hotel System**                                          | Project Leader               | PHP, PHPMailer, CSS, JavaScript             | Developed a hotel management system for Marianne Hotel.                         |
 
 
 
