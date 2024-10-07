@@ -18,19 +18,18 @@ Feel free to reach out if you’d like to discuss potential collaborations or pr
 
 ---
 
-## 📂 Projects Overview
-
-**Total Projects: 7**  
+## 📂 Projects
 
 | **Project**                                                         | **Role**                     | **Tech Stack**                              | **Description**                                                                 | **Type**  |
 |----------------------------------------------------------------------|------------------------------|---------------------------------------------|---------------------------------------------------------------------------------|-----------|
 | 🎨 **Empowering Artists with Non-Fungible Tokens (NFT) with AI Integration on the Polygon Network** | Project Leader               | AI, Blockchain, Polygon, NFT                | Creating a platform for artists to mint NFTs, verified for originality using AI.| Web       |
+| 💻 **Paysera Attendance System**                                     | Assistant Front End Developer | Vite, Typescript, Digital Ocean            | Developed an attendance system for Paysera during OJT completion.               | Web       |
 | 📚 **Word Checker**                                                  | Developer                    | JavaScript, React Native, BING API          | A word-checking app with real-time word validation using the BING API.           | Mobile    |
 | 🔥 **Semi Advanced Marketplace (Semi Advanced CRUD)**                | Developer                    | Laravel, React, Firebase, Multi-Framework   | Developed a marketplace with multi-framework integration and authentication for both admins and users. | Web       |
 | 🛒 **Marketplace (Basic CRUD)**                                       | Developer                    | React, Firebase                             | Developed a basic marketplace application implementing CRUD operations.          | Web       |
 | 🎮 **RITSO (2D Top-Down Game)**                                       | Assistant Project Leader      | Unity, C#, Libresprite                      | Contributed to game mechanics and sprite design for a 2D top-down game.          | Web       |
 | 🌱 **FARM BUD**                                                      | Project Leader               | Flutter, Firebase                           | Led development of a mobile app to assist farmers with crop management.          | Mobile    |
-| 🏨 **Marianne Hotel System**                                          | Project Leader               | PHP, PHPMailer, CSS, JavaScript             | Developed a hotel management system for Marianne Hotel.                         | Web       |
+| 🏨 **Marianne Hotel System**                                          | Project Leader               | PHP, Composer                               | Developed a semi-advanced CRUD hotel management system with extensive functionality for Marianne Hotel. | Web       |
 
 ---
 
