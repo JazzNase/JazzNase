@@ -18,6 +18,17 @@ Feel free to reach out if you’d like to discuss potential collaborations or pr
 
 ---
 
+## 📊 GitHub Stats
+
+> **Note**: Most of my repositories are private, but I consistently contribute to exciting projects behind the scenes.
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jazznase&theme=dark&hide_border=false" alt="GitHub Streak" /></td>
+        <td colspan="2" align="center"><img src="https://github-contributor-stats.vercel.app/api?username=jazznase&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /></td>
+  </tr>
+</table>
+
 ## 📂 Projects
 
 | **Project**                                                         | **Role**                     | **Tech Stack**                              | **Description**                                                                 | **Type**  |
@@ -38,19 +49,7 @@ Feel free to reach out if you’d like to discuss potential collaborations or pr
 
 
 
-## 📊 GitHub Stats
 
-> **Note**: Most of my repositories are private, but I consistently contribute to exciting projects behind the scenes.
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jazznase&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jazznase&theme=dark&hide_border=false" alt="GitHub Streak" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-contributor-stats.vercel.app/api?username=jazznase&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /></td>
-  </tr>
-</table>
 
 ## 💻 Tech Stack and Familiarity
 
